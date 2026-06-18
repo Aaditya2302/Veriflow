@@ -1,0 +1,4 @@
+orderid,order_value,pay_mode,sku,region,mobile,created_at,contact_email
+ORD001,150.00,card,PROD99,US,1234567890,2026-06-18,user1@test.com
+ORD002,25.50,UPI,PROD88,IN,9876543210,18/06/2026,user2@test.com
+ORD003,99.99,wallet,PROD77,SG,87654321,2026-06-18,user3@test.com

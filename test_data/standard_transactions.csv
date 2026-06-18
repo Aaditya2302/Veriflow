@@ -1,0 +1,4 @@
+order_id,amount,payment_mode,product_id,country_code,phone,order_date,email
+ORD001,150.00,card,PROD99,US,1234567890,2026-06-18,user1@test.com
+ORD002,25.50,UPI,PROD88,IN,9876543210,18/06/2026,user2@test.com
+ORD003,99.99,wallet,PROD77,SG,87654321,2026-06-18,user3@test.com
